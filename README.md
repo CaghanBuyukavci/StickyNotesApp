@@ -16,7 +16,7 @@
 
 ## 🚀 Download
 
-
+https://github.com/CaghanBuyukavci/StickyNotesApp/releases/download/v1.0.0/StickyNotesApp.exe
 
 ## 📸 Screenshots
 
