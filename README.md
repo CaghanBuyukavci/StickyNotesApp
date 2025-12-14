@@ -20,7 +20,7 @@ https://github.com/CaghanBuyukavci/StickyNotesApp/releases/download/v1.0.0/Stick
 
 ## 📸 Screenshots
 
-
+https://www.youtube.com/watch?v=pzAbUyAR2QU
 
 ## ⚙️ System Requirements
 
